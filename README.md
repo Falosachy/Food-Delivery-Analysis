@@ -1,1 +1,1 @@
-# Food-Delivery-Analysis
+Comprehensive analysis of food delivery data: cleans raw orders, visualizes rating distribution (pie chart), delivery duration vs rating (box plot), and area vs rating heatmap. Implements Z‑score and IQR outlier detection, uncovering slow deliveries and hotspot areas, guiding optimizations for faster service.
